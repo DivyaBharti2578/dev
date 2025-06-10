@@ -4,4 +4,4 @@
   tasks:
     - name: Example App
       debug:
-        msg: "This is Divya"
+        msg: "This is DIVYA"
